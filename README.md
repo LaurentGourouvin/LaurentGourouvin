@@ -1,18 +1,48 @@
-<h1 align="center">Hi 👋, I'm Gourouvin Laurent</h1>
-<h3 align="center">A passionate web developer from France</h3>
+### Hi there 👋 I'm Laurent Gourouvin
 
-- 🌱 I’m currently learning **React, Vue.js, Node.js**
+I'm a passionate **Fullstack JavaScript Developer** from France, specialized in  
+**TypeScript, React, Vue.js, Node.js** and modern web architectures.
 
-- 📫 How to reach me **gourouvin.laurent@gmail.com**
+🚀 I love building clean, maintainable apps using strong fundamentals:  
+**frontend UI/UX, API design, testing, and scalable architecture**.
 
+---
 
-<p align="left">
+### 🌱 Currently learning & improving
+- Advanced **React** (hooks, context, performance)
+- **Node.js + Express** with TypeScript
+- **PostgreSQL** & database design
+- **DevOps basics** (Docker, CI/CD)
+- **Vue.js 3** (Composition API)  
+- Preparing to relocate & work in **South Korea 🇰🇷** (E-7 Visa track)
+
+---
+
+### 📫 How to reach me
+**gourouvin.laurent@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vue,express,postgres,git,linux,docker" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3><br>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurentgourouvin&show_icons=true&locale=fr&theme=prussian" alt="laurentgourouvin" /></p>
+### 📌 Featured Projects
+*(to pin when ready — I can help you build them)*  
+- 🔧 **React App** – modern SPA with hooks & tests  
+- 🧩 **Node.js API** – TypeScript, PostgreSQL, JWT auth  
+- 🐳 **Docker Environment** – full dev environment for local projects  
+- 🌐 **Fullstack App** – React + Node + SQL + CI/CD  
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentGourouvin&theme=prussian)
+### 📊 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laurentgourouvin&show_icons=true&theme=react" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentgourouvin&layout=compact&theme=react" />
+</p>
