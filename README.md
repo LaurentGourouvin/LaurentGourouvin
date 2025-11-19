@@ -46,20 +46,39 @@
 
 ## 🚀 Featured Projects (soon to be pinned)
 
-### 🔹 Fullstack App – React + Symfony / Node + PostgreSQL
-- Authentification, CRUD sécurisé, rôle utilisateur
-- Architecture claire (frontend / backend / DB)
-- Tests de base + Docker pour l’environnement complet
+> Real-world projects around web development and South Korea 🇰🇷
 
-### 🔹 React Frontend – Modern SPA
-- React hooks, Context, custom hooks
-- UI propre et responsive
-- Intégration API + gestion des erreurs
+### 🔹 NKAcademy – Korean Listening & Immersion Platform
+A web platform to learn Korean through **dialogues, chunks and sentence mining**.
+- Weekly “immersion packs” with dialogs, vocabulary and exercises
+- Focus on **listening + repetition + shadowing**
+- Built with **React / NextJS / TypeScript / Node.js / PostgreSQL**
+- Goal: clean architecture, reusable components, and a solid API layer
 
-### 🔹 API Backend – Symfony ou Node.js + TS
-- Organisation par features / modules
-- JWT auth, validation, middlewares
-- Documentation minimaliste (OpenAPI / README clair)
+---
+
+### 🔹 K-Move Planner – Korea Relocation & Visa Dashboard
+A personal **relocation planner** for people preparing to move to South Korea.
+- Task lists for **E-7 / work visas** (documents, deadlines, steps)  
+- Budget planner (salary, rent, cost of living, savings)  
+- Timeline view: job offer → visa → flight → first month in Korea  
+- Tech stack: **React**, **Node.js or Symfony**, **PostgreSQL**, **Docker**
+
+---
+
+### 🔹 K-Life Map – Korea Culture & Places Explorer
+A curated map & tracker for discovering **Korean culture and daily life**.
+- Save and tag cafés, restaurants, coworking spaces, drama locations, etc.  
+- Filter by city (Seoul, Busan, Daegu…) and by category (food, study, culture)  
+- “Wishlist” vs “Visited” modes to track your Korean journey  
+- Tech stack: **React / Next.js**, public APIs, **Leaflet or Mapbox** integration 
+
+---
+
+> These projects are being built to showcase:
+> - clean code & real-world features  
+> - modern JS ecosystems (React, Node, Symfony)  
+> - and my long-term commitment to living & working in **South Korea 🇰🇷**
 
 ---
 
