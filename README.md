@@ -46,8 +46,6 @@
 
 ## 🚀 Featured Projects (soon to be pinned)
 
-> *(WIP – but voilà la structure que les recruteurs vont adorer lire)*
-
 ### 🔹 Fullstack App – React + Symfony / Node + PostgreSQL
 - Authentification, CRUD sécurisé, rôle utilisateur
 - Architecture claire (frontend / backend / DB)
