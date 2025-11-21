@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Hi+there,+I'm+Laurent+Gourouvin;Fullstack+JavaScript+%26+PHP+Developer;Preparing+for+South+Korea+%7C+E-7+Visa" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Hi+there,+I'm+Laurent+Gourouvin;Fullstack+JavaScript+%26+PHP+Developer;Preparing+for+South+Korea+%7C+E-7+Visa+Track" />
 </p>
 
 
@@ -22,18 +22,18 @@
 - 🔧 **Fullstack JavaScript & PHP Developer**  
 - 💼 Experience with **Symfony**, **Node.js**, **React**, **Vue.js**, **REST APIs**, **PostgreSQL**  
 - 🌍 Currently preparing a move to **South Korea 🇰🇷** (2027-2028)(E-7 Visa track)  
-- 🧠 I like **clean code, maintainable architecture, and strong fundamentals**  
+- 🧠 I like **clean code, maintainable architecture, and strong fundamentals**
 - 💬 I enjoy working with modern stacks and learning continuously
+- 🔍 Interested in scalable design, API stability, and clean architecture patterns.
 
 ---
 
 ## 📚 Currently Working On
 
-- ⚛️ Advanced **React** (hooks, context, performance patterns)  
-- 🟢 **Node.js + Express** with TypeScript (APIs, auth, testing)  
-- 🐘 **PHP 8 & Symfony** (REST APIs, services, clean architecture)  
-- 🐳 **Docker & DevOps basics** (local dev env, CI/CD with GitHub Actions)  
-- 🗄️ **PostgreSQL** – schema design, relations, indexes
+- ⚛️ Strengthening my expertise in **React**, **Node.js**, and **Symfony**  
+- 🟦 Building production-ready APIs with **TypeScript** (clean architecture, services, tests)  
+- 🛡️ Improving backend fundamentals: **security**, database design, indexing, caching  
+- 🐳 Deepening DevOps basics with **Docker** & **CI/CD** (GitHub Actions)
 
 ---
 
@@ -43,6 +43,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,symfony,react,vue,nextjs,nodejs,express,postgres,git,linux,docker,vscode" />
 </p>
 
+---
+## 🤝 Professional Values
+
+- 🧩 Reliability & ownership  
+- 🗣️ Clear and proactive communication  
+- 🧭 Long-term thinking & autonomy  
+- 🔍 Curiosity, learning mindset, and constant improvement
+  
 ---
 
 ## 🚀 Featured Projects (soon to be pinned)
@@ -94,8 +102,9 @@ A curated map & tracker for discovering **Korean culture and daily life**.
 
 ## ✈️ Next Step: South Korea 🇰🇷
 
-- 🎯 Goal: work as a **Fullstack Developer** in Korea under **E-7 visa**  
-- 🧳 Currently: improving portfolio, GitHub & projects  
+- 🎯 Goal: work as a **Fullstack Developer** in Korea under **E-7 visa**
+- 🇰🇷 Actively learning Korean (TOPIK goal)
+- 🧳 Currently: improving portfolio, GitHub & projects
 - 📬 Available for **remote interviews** and **technical tests**
 
 ---
