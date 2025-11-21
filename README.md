@@ -49,7 +49,7 @@
 
 > Real-world projects around web development and South Korea 🇰🇷
 
-### 🔹 NKAcademy – Korean Listening & Immersion Platform
+### 🔹 KR-NKAcademy – Korean Listening & Immersion Platform
 A web platform to learn Korean through **dialogues, chunks and sentence mining**.
 - Weekly “immersion packs” with dialogs, vocabulary and exercises
 - Focus on **listening + repetition + shadowing**
@@ -58,7 +58,7 @@ A web platform to learn Korean through **dialogues, chunks and sentence mining**
 
 ---
 
-### 🔹 K-Move Planner – Korea Relocation & Visa Dashboard
+### 🔹 KR-Move Planner – Korea Relocation & Visa Dashboard
 A personal **relocation planner** for people preparing to move to South Korea.
 - Task lists for **E-7 / work visas** (documents, deadlines, steps)  
 - Budget planner (salary, rent, cost of living, savings)  
@@ -67,7 +67,7 @@ A personal **relocation planner** for people preparing to move to South Korea.
 
 ---
 
-### 🔹 K-Life Map – Korea Culture & Places Explorer
+### 🔹 KR-Life Map – Korea Culture & Places Explorer
 A curated map & tracker for discovering **Korean culture and daily life**.
 - Save and tag cafés, restaurants, coworking spaces, drama locations, etc.  
 - Filter by city (Seoul, Busan, Daegu…) and by category (food, study, culture)  
