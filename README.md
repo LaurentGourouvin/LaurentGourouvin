@@ -102,10 +102,11 @@ A curated map & tracker for discovering **Korean culture and daily life**.
 
 ## ✈️ Next Step: South Korea 🇰🇷
 
-- 🎯 Goal: work as a **Fullstack Developer** in Korea under **E-7 visa**
-- 🇰🇷 Actively learning Korean (TOPIK goal)
-- 🧳 Currently: improving portfolio, GitHub & projects
-- 📬 Available for **remote interviews** and **technical tests**
+- 🎓 **Master’s-level Software Engineering (2026)** — strong focus on backend systems & APIs
+- 🎯 **Career Goal:** Backend Engineer in South Korea (E-7 visa eligible)
+- 🇰🇷 **Korean learner** — TOPIK preparation in progress
+- 🧳 **Actively building** production-ready projects, portfolio & GitHub
+- 📬 Open to **remote interviews** and **technical assessments**
 
 ---
 
