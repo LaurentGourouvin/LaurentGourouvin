@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Hi+there,+I'm+Laurent+Gourouvin;Fullstack+JavaScript+%26+PHP+Developer;Preparing+for+South+Korea+%7C+E-7+Visa+Track" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Hi+there,+I'm+Laurent+Gourouvin;Backend+Engineer+%26;Preparing+for+South+Korea" />
 </p>
 
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 **Fullstack JavaScript & PHP Developer**  
+- 🔧 **Backeng Engineer*  
 - 💼 Experience with **Symfony**, **Node.js**, **React**, **Vue.js**, **REST APIs**, **PostgreSQL**  
 - 🌍 Currently preparing a move to **South Korea 🇰🇷** (2027-2028)(E-7 Visa track)  
 - 🧠 I like **clean code, maintainable architecture, and strong fundamentals**
