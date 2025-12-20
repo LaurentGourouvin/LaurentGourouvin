@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 - 🔧 **Backeng Engineer**
-- 💼 Experience with **Symfony**, **Node.js**, **React**, **Vue.js**, **REST APIs**, **PostgreSQL**  
+- 💼 Experience with **Symfony**, **Node.js**, **REST APIs**, **PostgreSQL**, **ORM**, **React**, **Vue.js**
 - 🌍 Currently preparing a move to **South Korea 🇰🇷** (2027-2028)(E-7 Visa track)  
 - 🧠 I like **clean code, maintainable architecture, and strong fundamentals**
 - 💬 I enjoy working with modern stacks and learning continuously
