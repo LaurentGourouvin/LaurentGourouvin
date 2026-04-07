@@ -20,15 +20,15 @@
 
 Backend Engineer with experience in **Symfony**, **Node.js**, **Java / Spring Boot**, **REST APIs**, **PostgreSQL**, **React**, and **Vue.js**.
 
-I’m focused on **clean architecture**, **maintainable backend systems**, **API design**, and **scalable web applications**.
+I focus on **clean architecture**, **maintainable backend systems**, **API design**, and **scalable web applications**.
 
-Currently building production-oriented projects, deepening my expertise in **software architecture**, and preparing for long-term opportunities in **South Korea 🇰🇷**.
+Currently building production-oriented projects and deepening my expertise in **software architecture** and **backend engineering**.  
 
 ---
 
 ## 📚 Current Focus
 
-- ⚛️ Strengthening my expertise in **React**, **Node.js**, and **Symfony**
+- ☕ Strengthening my expertise in **Java / Spring Boot**, **React**, **Node.js**, and **Symfony**
 - 🟦 Building production-ready backends with **TypeScript**, clean architecture, and testing practices
 - 🛡️ Deepening core backend topics: **security**, **database design**, **query optimization**, and **caching**
 - 🐳 Improving my DevOps workflow with **Docker** and **CI/CD** using **GitHub Actions**
@@ -81,18 +81,9 @@ A curated map and tracker for discovering **Korean culture and daily life**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laurentgourouvin&show_icons=true&theme=react&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentgourouvin&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
 ## ✈️ Career Direction
 
-- 🎓 Currently completing a **Master’s-level software engineering program**
+- 🎓 Completing a **Master’s-level software engineering program**
 - 🎯 Targeting **Backend Engineer** opportunities in **South Korea**
 - 🇰🇷 Korean learner with **TOPIK preparation in progress**
 - 📬 Open to **remote interviews** and **technical assessments**
