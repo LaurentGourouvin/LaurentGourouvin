@@ -52,35 +52,6 @@ Currently building production-oriented projects and deepening my expertise in **
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 KR-NKAcademy — Korean Listening & Immersion Platform
-A web platform designed to learn Korean through **dialogues, chunks, and sentence mining**.
-- Weekly immersion packs with dialogues, vocabulary, and exercises
-- Focus on **listening**, **repetition**, and **shadowing**
-- Built with **React / Next.js / TypeScript / Node.js / PostgreSQL**
-- Designed with a focus on **clean architecture**, reusable components, and a solid API layer
-
----
-
-### 🔹 KR-Move Planner — Relocation & Visa Dashboard
-A relocation planning tool for people preparing to move to **South Korea**.
-- Track visa steps, deadlines, and required documents
-- Plan budget, rent, savings, and cost of living
-- Visualize key milestones from job offer to relocation
-- Built with **React**, **Node.js or Symfony**, **PostgreSQL**, and **Docker**
-
----
-
-### 🔹 KR-Life Map — Culture & Places Explorer
-A curated map and tracker for discovering **Korean culture and daily life**.
-- Save and organize cafés, restaurants, coworking spaces, and cultural places
-- Filter by city and category
-- Track places to visit and places already explored
-- Built with **React / Next.js**, public APIs, and **Leaflet or Mapbox**
-
----
-
 ## ✈️ Career Direction
 
 - 🎓 Completing a **Master’s-level software engineering program**
