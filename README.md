@@ -16,11 +16,6 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LaurentGourouvin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentGourouvin&layout=compact&theme=tokyonight)
-
----
-
 ## 👨‍💻 About Me
 
 Backend Engineer with experience in **Symfony**, **Node.js**, **Java / Spring Boot**, **REST APIs**, **PostgreSQL**, **React**, and **Vue.js**.
