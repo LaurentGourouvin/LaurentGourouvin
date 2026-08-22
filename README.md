@@ -54,7 +54,6 @@ Currently building production-oriented projects and deepening my expertise in **
 
 ## ✈️ Career Direction
 
-- 🎓 Completing a **Master’s-level software engineering program**
 - 🎯 Targeting **Backend Engineer** opportunities in **South Korea**
 - 🇰🇷 Korean learner with **TOPIK preparation in progress**
 - 📬 Open to **remote interviews** and **technical assessments**
